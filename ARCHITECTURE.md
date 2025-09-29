@@ -43,5 +43,5 @@ interactive components.
 
 In `src/sass` we have a lot of styles that override the application's defaults. 
 
-In `static/img-autostadt` we add a lot of new images which are either referenced from the
+In `static/icons` we add a lot of new images which are either referenced from the
 configuration or used in the stylesheets.

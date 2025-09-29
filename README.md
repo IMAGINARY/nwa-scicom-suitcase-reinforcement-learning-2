@@ -1,5 +1,5 @@
-# futurium-suitcase-reinforcement-learning-2
-Reinforcement Learning 2 as a suitcase exhibit for Futurium
+# tu-delft-suitcase-reinforcement-learning-2
+Reinforcement Learning 2 as a suitcase exhibit for TU Delft.
 
 This variant of the original exhibit splits the functionality over two screens. It's designed
 for two iPads with 2360-by-1640-pixel resolution at 264 ppi (1180x820 logical resolution). 
@@ -57,8 +57,7 @@ It can also get the DSN from the `app.sentry.dsn` configuration key in the  `set
 ## Credits
 
 This adaptation was developed by Eric Londaits for Imaginary gGmbH.
-
-Supported by [Futurium](http://futurium.de/).
+Based on an exhibit supported by [Futurium](http://futurium.de/).
 
 ## License
 
