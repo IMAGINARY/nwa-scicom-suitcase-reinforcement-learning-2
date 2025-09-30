@@ -1,5 +1,5 @@
-# tu-delft-suitcase-reinforcement-learning-2
-Reinforcement Learning 2 as a suitcase exhibit for TU Delft.
+# nwa-scicom-suitcase-reinforcement-learning-2
+Reinforcement Learning 2 as a suitcase exhibit for the Dutch Research Agenda (NWA).
 
 This variant of the original exhibit splits the functionality over two screens. It's designed
 for two iPads with 2360-by-1640-pixel resolution at 264 ppi (1180x820 logical resolution). 
