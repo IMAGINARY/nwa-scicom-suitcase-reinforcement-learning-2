@@ -57,6 +57,10 @@ It can also get the DSN from the `app.sentry.dsn` configuration key in the  `set
 ## Credits
 
 This adaptation was developed by Eric Londaits for Imaginary gGmbH.
+
+This adaptation was developed with the support of the TU Delft and the Dutch Research Council (NWO) 
+as project NWA.1397.24.009 within NWA L4 - NWA Wetenschapscommunicatie 2024.
+
 Based on an exhibit supported by [Futurium](http://futurium.de/).
 
 ## License
