@@ -2,8 +2,9 @@ defaultLanguage: de
 languages:
   en: "English"
   de: "Deutsch"
+  nl: "Nederlands"
 sideBySideTranslation:
-  - de
+  - nl
   - en
 # Time, in seconds, after which the station will be considered "idle". If a screensaver video is
 # set below, it will start. Otherwise, the exhibit will reload, resetting its state.
